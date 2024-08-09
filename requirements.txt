@@ -18,7 +18,7 @@ pycocotools==2.0.7
 regex==2023.8.8
 safetensors==0.4.3
 scipy==1.14.0
-skimage==0.0
+skimage
 timm==0.4.12
 torch==1.13.1
 torchvision==0.14.1
