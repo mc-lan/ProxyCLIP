@@ -8,7 +8,7 @@
     <a href='https://keyiping.wixsite.com/index' target='_blank'>Yiping Ke</a><sup>2</sup>&emsp;
     <a href='https://scholar.google.com.hk/citations?user=q4lnWaoAAAAJ&hl=en&inst=8669986779262753491&oi=ao' target='_blank'>Xinjiang Wang</a><sup>3</sup>&emsp;
     <a href='https://scholar.google.com.hk/citations?user=PnNAAasAAAAJ&hl=en' target='_blank'>Litong Feng</a><sup>3</sup>&emsp;
-    <a href='https://scholar.google.com.hk/citations?user=5GtyVooAAAAJ&hl=en&inst=8669986779262753491&oi=ao' target='_blank'>Wayne Zhang</a><sup>3,4</sup>&emsp;
+    <a href='https://www.statfe.com/' target='_blank'>Wayne Zhang</a><sup>3,4</sup>&emsp;
 </div>
 <div>
     <sup>1</sup>S-Lab, Nanyang Technological University&emsp; 
