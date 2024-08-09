@@ -14,6 +14,8 @@
     <sup>1</sup>S-Lab, Nanyang Technological University&emsp; 
     <sup>2</sup>CCDS, Nanyang Technological University&emsp; 
     <sup>3</sup>SenseTime Research&emsp;
+</div>
+<div>
     <sup>4</sup>Guangdong Provincial Key Laboratory of Digital Grid Technology&emsp;
 </div>
 
