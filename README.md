@@ -1,3 +1,12 @@
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/proxyclip-proxy-attention-improves-clip-for/unsupervised-semantic-segmentation-with-9)](https://paperswithcode.com/sota/unsupervised-semantic-segmentation-with-9?p=proxyclip-proxy-attention-improves-clip-for)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/proxyclip-proxy-attention-improves-clip-for/unsupervised-semantic-segmentation-with-4)](https://paperswithcode.com/sota/unsupervised-semantic-segmentation-with-4?p=proxyclip-proxy-attention-improves-clip-for)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/proxyclip-proxy-attention-improves-clip-for/unsupervised-semantic-segmentation-with-3)](https://paperswithcode.com/sota/unsupervised-semantic-segmentation-with-3?p=proxyclip-proxy-attention-improves-clip-for)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/proxyclip-proxy-attention-improves-clip-for/unsupervised-semantic-segmentation-with-10)](https://paperswithcode.com/sota/unsupervised-semantic-segmentation-with-10?p=proxyclip-proxy-attention-improves-clip-for)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/proxyclip-proxy-attention-improves-clip-for/unsupervised-semantic-segmentation-with-8)](https://paperswithcode.com/sota/unsupervised-semantic-segmentation-with-8?p=proxyclip-proxy-attention-improves-clip-for)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/proxyclip-proxy-attention-improves-clip-for/unsupervised-semantic-segmentation-with-12)](https://paperswithcode.com/sota/unsupervised-semantic-segmentation-with-12?p=proxyclip-proxy-attention-improves-clip-for)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/proxyclip-proxy-attention-improves-clip-for/unsupervised-semantic-segmentation-with-11)](https://paperswithcode.com/sota/unsupervised-semantic-segmentation-with-11?p=proxyclip-proxy-attention-improves-clip-for)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/proxyclip-proxy-attention-improves-clip-for/unsupervised-semantic-segmentation-with-7)](https://paperswithcode.com/sota/unsupervised-semantic-segmentation-with-7?p=proxyclip-proxy-attention-improves-clip-for)
+
 <div align="center">
 
 <h1>ProxyCLIP: Proxy Attention Improves CLIP for Open-Vocabulary Segmentation</h1>
