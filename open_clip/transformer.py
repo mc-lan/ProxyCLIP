@@ -570,7 +570,7 @@ class VisionTransformer(nn.Module):
         q_k = F.normalize(ex_feats.flatten(2, 3), dim=1)
         similarity = torch.einsum("b c m, b c n -> b m n", q_k, q_k)
 
-        similarity = (similarity - torch.mean(similarity) * beta) * gamma
+        similarity = (similarity - similarity.mean(dim=(1, 2), keepdim=True) * beta) * gamma
         similarity[similarity < 0.0] = float('-inf')
 
         mask = similarity.to(q.dtype).unsqueeze(1).repeat(1, num_heads, 1, 1)
